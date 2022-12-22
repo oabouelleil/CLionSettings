@@ -9,5 +9,9 @@
     <entry key="ide.tree.ui.experimental" value="false" />
     <entry key="run.processes.with.pty" value="true" />
     <entry key="ide.new.stripes.ui" value="false" />
+    <entry key="ide.editor.tab.selection.animation" value="true" />
+    <entry key="ide.new.editor.tabs.vertical.borders" value="true" />
+    <entry key="editor.focus.mode.color.light" value="474747" />
+    <entry key="editor.focus.mode.color.dark" value="474747" />
   </component>
 </application>
